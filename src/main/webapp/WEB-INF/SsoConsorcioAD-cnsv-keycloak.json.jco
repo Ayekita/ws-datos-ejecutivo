@@ -1,0 +1,10 @@
+{
+    "realm": "SsoConsorcioAD",
+    "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp9o7ry3xy1JFzUnCEIGxukW9pBk/aI+icEf2WrFRhgj0PCdymb3kSyC5Dvimg8PIU/M89Gg6ZB6h3bu0GCeQOD8oEltJJxnxk7tpFwGSB5IrkbqeuNNVndr6OZt6JcKwaNDEcEA2q5K64kJIxsc3nxdpH439dplSI3D8oqsey8Q7B+Xax8C5EnwjoZyZf+ToNvBTCii9uFhLOW7LUd4x/gvXd7hrmDty/vhuNytHTJ+TZtd+HWj6RGfauLaGQ93XYnAVkjLZRcutPQhls8tcqF7fhFIXg3x15lnVUN5UomQrS1jVgOqW6X0yidZ97lytj76EJhkjVJbwFRkMIRN7UwIDAQAB",
+    "auth-server-url": "https://ssoqa.cnsv.cl/auth/",
+    "ssl-required": "external",
+    "resource": "portal-operacional",
+    "credentials": {
+        "secret": "c2ea075e-f208-4267-a655-ab939c310442"
+    }
+}
