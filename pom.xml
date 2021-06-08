@@ -17,7 +17,7 @@
 		<javax.javaee-web-api.version>7.0</javax.javaee-web-api.version>
 		<javax.javaee-api.version>7.0</javax.javaee-api.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<keycloak.version>3.4.2.Final</keycloak.version>
+		<keycloak.version>13.0.0</keycloak.version>
 	</properties>
 	<dependencies>
 		<dependency>
